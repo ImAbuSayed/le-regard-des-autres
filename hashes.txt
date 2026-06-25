@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Le Regard Des Autres
+
+This log tracks the cryptographic history and versioning for the song **Le Regard Des Autres** (le-regard-des-autres).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-26T03:35:12.641681 | `v1` | `fce3e82e40b7414ce69f3841c7989b7825a03d06a9f68b2e6ff853812ed0f260` | `d71b404f3d6e962de54170cb4995a5c2ce1b5bddb1a89f3f17a996b488fe8b32` | `2026-06-26_le-regard-des-autres-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
