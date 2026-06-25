@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit 8133f689c8ffa0adfeb740302060d3d8a39afa75
+> Dans le reflet des phares, je devine ta silhouette
+> Une reine de la nuit que mon âme convoite et guette
+> Laisse les rumeurs s'éteindre, viens monter dans ma caisse
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
